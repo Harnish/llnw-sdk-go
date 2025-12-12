@@ -1,3 +1,5 @@
+These APIs and the company are no longer available.
+
 # llnw-sdk-go
 This repository contains the Limelight Networks SDK for Go. It provides a means to interact with the Limelight Networks APIs for the management of CDN configurations and EdgeFunctions.
 
